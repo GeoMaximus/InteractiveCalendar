@@ -1,3 +1,2 @@
-<font size=8>
-InteractiveCalendar Project <br>
-An interactive calendar developed using html, css and javascript <br>
+#Interactive Calendar JS Project <br>
+<font size=8>An interactive calendar developed using html, css and javascript <br>
